@@ -1,0 +1,27 @@
+package Amazon_problems;
+import java.util.*;
+
+public class String_Parenthesis_checker {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s = "abcdefg";
+		Parenthesis_checker(s);
+ 
+	}
+	
+	public static void Parenthesis_checker(String s){
+		ArrayList<String> a = new ArrayList<String>();
+		Stack<String> st = new Stack<String>();
+		for(int i=0;i<s.length();i++){
+			a.add(s.substring(i,i+1));
+		}
+		
+		for(int i=0;i<a.size();i++){
+			if(a.get(i) == "{" || a.get(i) == "[" || a.get(i) == "("){
+				
+			}
+		}
+		
+	}
+}

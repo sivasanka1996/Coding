@@ -1,0 +1,53 @@
+/* Check whether the following is balanced are not */
+
+package Amazon_problems;
+import java.util.*;
+
+public class String_Parenthesis_checker {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s = "{{{[[(())]]}}}";
+		if(Parenthesis_checker(s)){
+			System.out.println("Balanced");
+		}
+		else{
+			System.out.println("Not Balnced");
+		}
+ 
+	}
+	
+	public static void Parenthesis_checker(String s){
+		ArrayList<String> a = new ArrayList<String>();
+		Stack<String> st = new Stack<String>();
+		for(int i=0;i<s.length();i++){
+			a.add(s.substring(i,i+1));
+		}
+		System.out.println(a);
+		/*for(int i=0;i<a.size();i++){
+			if(a.get(i) == "{" || a.get(i) == "[" || a.get(i) == "("){
+				st.push(a.get(i));
+			}
+			else{
+				if(a.isEmpty()){
+					return false;
+				}
+				else{
+					if(st.peek() == "{" && a.get(i) == "}" || st.peek() == "(" && a.get(i) == ")" || st.peek() == "[" && a.get(i) == "]"){
+						st.pop();
+					}
+					else{
+						return false;
+					}
+				}
+			}
+		}
+		if(a.isEmpty()){
+			return true;
+		}
+		else{
+			return false;
+		}
+		*/
+	}
+}

@@ -1,0 +1,57 @@
+{
+  "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\inhertdemo\\src": {
+    "location": "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\inhertdemo\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\inhertdemo\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jdk1.8.0_191\\jre\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_191\\jre\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jdk1.8.0_191\\jre\\lib\\rt.jar\u0027. Neither fingerprint \u0027b6c9013acb8fc03e0d861c80ddd72676c0f0ca89\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Program Files\\Java\\jre1.8.0_231\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre1.8.0_231\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jre1.8.0_231\\lib\\rt.jar\u0027. Neither fingerprint \u00273f46a2536850569c9cda6811a14d36984f5ac64c\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\try\\src": {
+    "location": "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\try\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\try\\src\u0027. Skipped."
+  },
+  "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Employee_assignment\\src": {
+    "location": "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Employee_assignment\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Employee_assignment\\src\u0027. Skipped."
+  },
+  "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\class\\src": {
+    "location": "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\class\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\class\\src\u0027. Skipped."
+  },
+  "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Linked_list\\src": {
+    "location": "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Linked_list\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Linked_list\\src\u0027. Skipped."
+  },
+  "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\AmazonBusPassSystem\\src": {
+    "location": "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\AmazonBusPassSystem\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\AmazonBusPassSystem\\src\u0027. Skipped."
+  },
+  "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Data Structures\\src": {
+    "location": "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Data Structures\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Data Structures\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre1.8.0_241\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre1.8.0_241\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jre1.8.0_241\\lib\\rt.jar\u0027. Neither fingerprint \u0027b5be6fe055221171e57c5b59499724256a7eedd1\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Java_practice\\src": {
+    "location": "C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Java_practice\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\sankasiv\\Documents\\Study Related\\ATLAS\\JAVA\\Java_practice\\src\u0027. Skipped."
+  }
+}

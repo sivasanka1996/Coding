@@ -1,0 +1,10 @@
+package Amazon_problems;
+
+public class String_Parenthesis_checker {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

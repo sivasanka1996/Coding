@@ -1,0 +1,10 @@
+package Amazon_problems;
+
+public class Linked_list_vowels_end {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

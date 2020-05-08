@@ -1,0 +1,36 @@
+/* */
+package Amazon_problems;
+import java.util.*;
+public class Linked_list_vowels_end {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Node Head.data = "a";
+		
+	}
+	
+    public Node arrangeCV(Node head){
+        //write code here and return the head of changed linked list
+        Node Head1 = null;
+        Node temp = head;
+        while(temp.next!=null){
+            if(temp.next.data=='a'||temp.next.data=='A'||temp.next.data=='e'||temp.next.data=='E'||temp.next.data=='i' ||temp.next.data=='I' ||temp.next.data=='o' ||temp.next.data=='O' ||temp.next.data=='u' ||temp.next.data=='U'){
+            temp.next = temp.next.next;
+            Head1=temp.next;
+            Head1=Head1.next;
+            }
+            temp = temp.next;
+        }
+        temp.next = Head1;
+        return head;
+    }	
+}
+class Node {
+    String data;
+    Node next;
+    
+    public Node(String data){
+        this.data = data;
+        next = null;
+    }
+}

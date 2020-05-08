@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Java_practice/src/Amazon_problems/Linked_list_vowels_end.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Amazon_problems.Linked_list_vowels_end"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Java_practice"/>
+</launchConfiguration>
